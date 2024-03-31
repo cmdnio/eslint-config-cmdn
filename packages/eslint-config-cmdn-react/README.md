@@ -1,6 +1,6 @@
 # eslint-config-cmdn-react
 
-This package provides Airbnb's .eslintrc as an extensible shared config.
+ESLint config for React and Typescript projects by CMDN
 
 ## Purpose
 
@@ -15,11 +15,11 @@ To use this ESLint configuration in your project, follow these steps:
    npm install eslint-config-cmdn-react --save-dev
    ```
 2. Create an .eslintrc.js file in the root directory of your project and extend this configuration:
-   ```
+   ```ts
    module.exports = {
-    extends: ['eslint-config-cmdn-react'],
-    // Other customizations if needed
-   };
+     extends: ['eslint-config-cmdn-react'],
+     // Other customizations if needed
+   }
    ```
 
 ## License

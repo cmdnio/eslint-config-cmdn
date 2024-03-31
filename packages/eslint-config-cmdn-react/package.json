@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "ESLint config for React and Typescript projects by CMDN",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmdnio/eslint-config-cmdn"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cmdn-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint config for React and Typescript projects by CMDN",
   "main": "index.js",
   "repository": {
